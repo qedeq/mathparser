@@ -1,4 +1,4 @@
-package mathparser;
+package org.qedeq.mathparser;
 
 public class MathParser {
 	

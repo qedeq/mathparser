@@ -1,4 +1,7 @@
-package mathparser;
+package org.qedeq.mathparser;
+
+import org.qedeq.mathparser.Fraction;
+import org.qedeq.mathparser.MathParser;
 
 public class Main {
 
