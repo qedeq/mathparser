@@ -1,4 +1,4 @@
-package mparser;
+package mathparser;
 
 import java.math.BigInteger;
 
